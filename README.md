@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate in the creation of future technologies by making my own tiny contribution in what I can help
 - 📫 antoniolazaro@me.com
 
-## Education
+#### Education
 
 - MSc in Telecommunications Engineering
--- University: Universidad Politécnica de Madrid (UPM)
--- Field: Machine Learning
+  - University: Universidad Politécnica de Madrid (UPM)
+  - Field: Machine Learning
