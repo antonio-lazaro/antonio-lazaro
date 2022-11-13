@@ -7,5 +7,11 @@
 #### Education
 
 - MSc in Telecommunications Engineering
+  - Universities:
+      - Universidad Politécnica de Madrid (UPM)
+      - Université libre de Bruxelles (ULB)
+  - Speciality Field: Machine Learning
+
+- Bachelor's Degree in Telecommunications Engineering
   - University: Universidad Politécnica de Madrid (UPM)
-  - Field: Machine Learning
+  - Speciality Field: Telematics
